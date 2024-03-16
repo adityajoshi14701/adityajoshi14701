@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm KRISH JOSHI 👋 <h1> 
+### <h1>Hi there, I'm ADITYA JOSHI 👋 <h1> 
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=%2356bcd9&width=600&height=60&lines=Web+Developer;Competitive+Programmer;App+Developer;Full+stack+Developer;Freelancer;Content+Creator)
 <hr>
